@@ -9,7 +9,7 @@ VFXManager:
   m_StripUpdateShader: {fileID: 7200000, guid: 8fa6c4009fe2a4d4486c62736fc30ad8, type: 3}
   m_EmptyShader: {fileID: 4800000, guid: 33a2079f6a2db4c4eb2e44b33f4ddf6b, type: 3}
   m_RenderPipeSettingsPath: 
-  m_FixedTimeStep: 0.016666668
+  m_FixedTimeStep: 0.008333334
   m_MaxDeltaTime: 0.05
   m_MaxScrubTime: 30
   m_MaxCapacity: 100000000
